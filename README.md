@@ -14,7 +14,7 @@ The dataset is the [Select Northern Hemisphere Glacier Velocity Maps Using Custo
 
 
 ## Project Website
-The project's MyST website can be accessed [here](https://ucb-stat-159-f25.github.io/final-group06/).
+The project's MyST website can be accessed [here](https://ucb-stat-159-f26.github.io/final-group06/).
 
 
 ## Repository Structure
@@ -32,7 +32,7 @@ The repository is structured as follows:
 
 ## Setup and Installation
 1. Clone this repository:  
-git clone https://github.com/UCB-stat-159-f25/final-group06.git  
+git clone https://github.com/UCB-stat-159-f26/final-group06.git  
 
 2. Create and activate the `glaciers-env` environment:  
 conda env create -f environment.yml OR make env  
